@@ -19,3 +19,9 @@ Raihan Ramadhan Yusuf; 1402017121
 # !!!CLICK disini untuk mendownload Source Code, Apk, Card Image Target, dan 3D Objek dari Belajar Bahasa SIBI:
 
 https://drive.google.com/drive/folders/15lXWLyhzmLpXz2lK6QSzwu7iuAMOz6A-?usp=sharing
+
+Video Promosi EduCare
+https://youtu.be/bPYqQc3B_1g
+
+Video Dokumentasi Pembuatan EduCare
+https://youtu.be/9XFj6hkP994
