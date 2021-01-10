@@ -8,6 +8,8 @@ Aplikasi Belajar Bahasa SIBI adalah sebuah aplikasi AR dengan menggunakan teknol
 
 !Aplikasi diuji dengan perangkat Asus Maxpro M1 dan Redmi Note 8
 
+!Minimal Android 4.4 KitKat (API level 19)
+
 # EduCare Team
 Prakosa Dwi Prasetya; 1402017119
 
