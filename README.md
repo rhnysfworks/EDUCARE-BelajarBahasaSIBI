@@ -1,10 +1,12 @@
 # EDUCARE-BelajarBahasaSIBI
 Aplikasi Belajar Bahasa SIBI adalah sebuah aplikasi AR dengan menggunakan teknologi Image Target dan Model Target, yang didalamnya ada beberapa huruf alfabet dengan keluaran objek 3D tangan berbentuk Sistem Isyarat Bahasa Indonesia(SIBI).
 
-# EduCare
+# EduCare Team
 Prakosa Dwi Prasetya; 1402017119
 
 Raihan Ramadhan Yusuf; 1402017121
+
+
 
 !SDK Vuforia digunakan untuk AR Model Target
 
